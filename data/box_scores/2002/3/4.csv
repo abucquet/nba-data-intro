@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+MEMPHIS GRIZZLIES,240,28,68,2,6,18,31,9,24,13,7,4,15,15
+ATLANTA HAWKS,240,39,71,7,14,10,13,6,29,26,8,4,16,27
+BOSTON CELTICS,240,33,82,6,20,28,32,11,24,22,11,6,8,24
+PHILADELPHIA 76ERS,240,32,80,5,13,25,32,15,32,21,5,1,16,23
+SACRAMENTO KINGS,240,36,76,8,16,15,20,8,25,19,4,3,16,22
+PORTLAND TRAIL BLAZERS,240,38,81,6,18,25,28,13,31,26,12,3,7,19
+DENVER NUGGETS,240,28,74,3,14,23,29,18,24,13,11,3,25,36
+UTAH JAZZ,240,32,63,1,10,35,46,5,23,25,14,11,18,24

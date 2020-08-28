@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+CLEVELAND CAVALIERS,240,32,75,3,6,15,23,12,35,16,12,2,20,15
+BOSTON CELTICS,240,39,83,13,27,12,18,11,30,27,13,5,14,20
+SACRAMENTO KINGS,240,40,99,3,15,11,15,15,25,17,13,0,10,20
+LOS ANGELES LAKERS,240,36,82,6,17,22,24,15,35,22,5,4,19,20
+NEW YORK KNICKS,265,35,74,10,17,23,26,8,32,20,11,5,17,28
+MIAMI HEAT,265,31,73,7,25,31,37,8,29,15,8,4,16,23
+PHILADELPHIA 76ERS,240,34,81,6,16,15,23,9,27,20,8,8,9,24
+NEW JERSEY NETS,240,34,83,5,15,23,28,17,36,17,4,10,17,26
+CHARLOTTE HORNETS,240,31,76,4,13,16,25,7,35,13,8,5,14,21
+PHOENIX SUNS,240,31,85,1,6,22,30,19,33,22,9,2,14,21

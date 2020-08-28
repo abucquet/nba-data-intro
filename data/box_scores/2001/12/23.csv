@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+MEMPHIS GRIZZLIES,240,26,76,4,15,24,29,9,28,19,19,9,20,19
+BOSTON CELTICS,240,31,83,5,21,18,21,22,38,22,11,6,25,21
+PHOENIX SUNS,240,36,92,6,13,23,30,14,21,18,6,2,13,28
+SACRAMENTO KINGS,240,52,90,12,26,17,29,14,37,32,7,3,13,22
+MILWAUKEE BUCKS,240,43,79,5,10,10,14,3,38,15,10,7,11,22
+SAN ANTONIO SPURS,240,34,83,6,25,17,25,14,28,17,4,10,13,17
+MIAMI HEAT,240,28,72,2,12,18,27,9,34,17,7,5,15,16
+TORONTO RAPTORS,240,34,81,4,16,11,15,12,35,21,8,4,14,24

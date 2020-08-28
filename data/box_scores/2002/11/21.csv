@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+HOUSTON ROCKETS,240,33,80,8,23,16,22,10,39,22,7,3,16,22
+DALLAS MAVERICKS,240,41,84,8,13,13,18,8,35,23,8,4,10,18
+PORTLAND TRAIL BLAZERS,240,33,80,2,11,21,29,16,33,20,2,9,11,14
+SEATTLE SUPERSONICS,240,37,92,4,13,7,10,14,31,27,7,5,8,20

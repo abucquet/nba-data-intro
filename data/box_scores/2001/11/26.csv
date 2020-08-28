@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+SACRAMENTO KINGS,240,35,80,4,10,20,30,10,38,24,8,4,15,19
+MEMPHIS GRIZZLIES,240,41,86,5,15,11,16,8,36,31,8,6,11,21
+ATLANTA HAWKS,240,30,71,6,18,17,19,10,24,17,7,0,12,19
+NEW YORK KNICKS,240,38,76,4,12,8,11,9,28,21,7,1,12,24
+DETROIT PISTONS,240,38,70,6,19,23,32,10,33,21,5,8,20,20
+ORLANDO MAGIC,240,38,90,8,16,16,23,13,20,19,14,2,9,25
+PHOENIX SUNS,265,35,84,11,23,30,44,12,34,16,9,11,14,32
+UTAH JAZZ,265,38,90,3,9,25,34,15,40,25,5,3,19,33

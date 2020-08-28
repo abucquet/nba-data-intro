@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+LOS ANGELES CLIPPERS,240,29,86,1,20,20,26,16,40,20,4,4,16,20
+DENVER NUGGETS,240,38,88,5,15,14,23,8,35,29,10,10,11,21
+SEATTLE SUPERSONICS,240,34,90,4,17,20,25,19,29,18,10,0,13,22
+DETROIT PISTONS,240,41,83,7,17,12,16,13,32,24,6,11,18,22
+ORLANDO MAGIC,265,41,94,5,12,18,21,13,26,29,17,10,17,24
+GOLDEN STATE WARRIORS,265,40,80,2,13,17,26,13,36,27,8,5,30,29
+HOUSTON ROCKETS,240,31,73,4,14,33,41,12,24,12,7,5,14,24
+LOS ANGELES LAKERS,240,39,85,7,13,20,29,16,30,18,5,8,16,33
+DALLAS MAVERICKS,240,36,89,1,9,11,13,10,27,17,7,2,10,21
+SACRAMENTO KINGS,240,39,73,7,18,24,29,6,40,32,6,2,14,19

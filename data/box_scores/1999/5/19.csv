@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+PHILADELPHIA 76ERS,240,32,80,1,8,17,22,15,27,14,8,5,11,23
+INDIANA PACERS,240,32,81,6,21,15,24,20,29,26,5,5,12,22
+LOS ANGELES LAKERS,240,29,69,3,14,15,26,9,29,11,6,5,18,24
+SAN ANTONIO SPURS,240,30,69,2,8,17,18,7,31,22,8,2,17,27

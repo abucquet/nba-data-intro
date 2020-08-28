@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+DETROIT PISTONS,240,32,68,4,11,14,18,3,29,15,4,2,13,21
+MIAMI HEAT,240,32,71,4,14,16,24,9,33,22,11,5,17,26
+PHOENIX SUNS,240,28,86,3,18,11,19,14,32,9,7,11,14,26
+SAN ANTONIO SPURS,240,29,81,3,10,24,26,13,36,16,8,12,13,21

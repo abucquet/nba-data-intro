@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+SEATTLE SUPERSONICS,240,41,80,7,20,20,32,16,32,22,5,6,11,21
+DALLAS MAVERICKS,240,39,92,6,20,17,24,20,25,21,6,5,8,25
+LOS ANGELES CLIPPERS,240,26,70,5,8,31,45,12,30,14,7,8,15,24
+DENVER NUGGETS,240,35,80,7,14,23,27,11,34,20,4,7,18,28
+ATLANTA HAWKS,240,29,67,3,9,22,30,9,27,13,7,0,11,20
+INDIANA PACERS,240,34,77,1,13,13,17,14,28,15,4,3,11,27
+VANCOUVER GRIZZLIES,240,39,82,1,6,19,24,18,27,27,8,4,22,30
+LOS ANGELES LAKERS,240,39,83,6,17,32,37,12,19,30,16,10,10,18

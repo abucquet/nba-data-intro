@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+ORLANDO MAGIC,240,40,88,7,17,9,16,12,29,22,7,3,7,22
+MILWAUKEE BUCKS,240,36,83,6,11,25,33,18,35,23,5,3,12,15
+PHOENIX SUNS,240,32,96,4,17,22,26,17,25,21,11,5,8,17
+SACRAMENTO KINGS,240,44,88,7,16,21,25,14,41,23,6,6,15,20

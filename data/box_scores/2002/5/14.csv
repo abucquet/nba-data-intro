@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+BOSTON CELTICS,240,34,73,7,17,15,18,5,36,18,7,3,13,25
+DETROIT PISTONS,240,29,81,8,27,15,21,10,30,21,4,7,11,20
+SAN ANTONIO SPURS,240,31,71,3,13,22,26,7,31,12,6,2,16,23
+LOS ANGELES LAKERS,240,35,78,5,14,18,23,7,27,20,7,7,11,23

@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+ORLANDO MAGIC,265,38,89,8,18,25,32,16,35,20,9,3,21,27
+BOSTON CELTICS,265,39,82,12,31,24,35,5,37,25,14,5,15,23
+MILWAUKEE BUCKS,290,46,97,16,33,32,39,14,30,33,16,11,12,28
+CLEVELAND CAVALIERS,290,52,106,8,15,21,26,17,36,31,4,7,23,27
+MINNESOTA TIMBERWOLVES,240,31,74,3,6,27,37,15,35,23,3,11,14,23
+DENVER NUGGETS,240,33,86,6,14,12,17,14,25,23,7,4,9,31
+PHOENIX SUNS,240,35,86,1,12,22,29,18,32,16,10,5,18,21
+NEW JERSEY NETS,240,43,88,5,12,15,21,10,31,25,8,5,15,21
+LOS ANGELES CLIPPERS,240,33,73,2,9,26,31,14,32,19,11,4,22,20
+NEW ORLEANS HORNETS,240,35,82,9,30,11,17,11,20,22,11,6,15,25

@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+SEATTLE SUPERSONICS,240,36,82,10,18,7,12,13,29,27,9,6,16,15
+MEMPHIS GRIZZLIES,240,35,74,2,11,5,10,10,28,21,9,3,17,14
+GOLDEN STATE WARRIORS,240,30,81,1,11,23,27,9,30,8,9,4,13,27
+MIAMI HEAT,240,33,79,3,9,23,36,16,38,23,7,5,19,28
+MILWAUKEE BUCKS,240,38,84,12,25,13,15,12,29,21,6,4,16,17
+SACRAMENTO KINGS,240,46,92,13,26,10,14,11,26,28,10,5,11,16
+LOS ANGELES LAKERS,240,42,79,4,12,21,29,12,30,19,12,3,13,11
+TORONTO RAPTORS,240,39,86,6,13,5,5,12,25,26,8,4,18,19

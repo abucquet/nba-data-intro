@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+MILWAUKEE BUCKS,240,30,83,4,8,21,26,13,30,11,9,8,13,22
+INDIANA PACERS,240,32,86,5,16,19,26,18,29,17,6,8,11,25
+SACRAMENTO KINGS,240,37,85,7,21,26,35,15,22,18,7,3,12,19
+LOS ANGELES LAKERS,240,52,99,3,8,10,14,25,29,24,7,9,12,24
+TORONTO RAPTORS,240,30,81,8,16,20,28,15,32,23,11,2,15,20
+NEW YORK KNICKS,240,35,72,5,12,17,21,5,29,14,10,5,17,24
+MINNESOTA TIMBERWOLVES,240,39,82,1,8,9,14,9,25,29,4,4,10,28
+PORTLAND TRAIL BLAZERS,240,31,75,8,18,21,23,9,28,17,5,5,10,21

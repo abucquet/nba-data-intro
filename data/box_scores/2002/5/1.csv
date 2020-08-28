@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+BOSTON CELTICS,240,31,78,9,29,10,14,10,27,15,9,2,15,23
+PHILADELPHIA 76ERS,240,31,67,2,12,19,30,11,32,20,9,3,17,19
+SAN ANTONIO SPURS,240,27,82,4,16,21,32,18,30,12,7,7,11,23
+SEATTLE SUPERSONICS,240,34,68,8,14,15,24,3,40,24,4,10,12,29

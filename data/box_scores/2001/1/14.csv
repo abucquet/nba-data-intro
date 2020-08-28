@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+PORTLAND TRAIL BLAZERS,240,39,88,7,12,18,28,15,28,22,13,1,16,26
+DETROIT PISTONS,240,35,73,4,10,22,30,11,29,17,6,9,23,26
+CHICAGO BULLS,240,31,68,2,10,17,24,6,28,15,2,5,11,21
+MIAMI HEAT,240,33,75,5,12,19,23,9,29,22,7,2,11,21
+SEATTLE SUPERSONICS,240,38,87,5,10,25,34,23,35,24,12,3,17,25
+PHOENIX SUNS,240,33,82,5,21,16,24,14,26,22,9,3,16,24
+CHARLOTTE HORNETS,240,34,77,2,9,29,38,10,33,18,9,6,7,20
+TORONTO RAPTORS,240,41,88,14,21,11,13,13,32,33,5,8,11,25

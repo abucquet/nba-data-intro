@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+UTAH JAZZ,240,35,70,1,6,32,41,14,29,29,14,6,17,28
+MEMPHIS GRIZZLIES,240,27,71,5,14,15,27,14,22,21,9,3,20,32
+MIAMI HEAT,240,36,73,0,6,20,27,9,32,18,5,1,9,19
+NEW YORK KNICKS,240,33,79,6,17,12,14,7,27,20,2,2,13,21
+GOLDEN STATE WARRIORS,240,32,89,5,13,19,32,24,31,13,7,3,17,21
+SACRAMENTO KINGS,240,39,85,6,17,19,30,15,30,26,7,13,13,22
+LOS ANGELES LAKERS,265,41,77,5,14,22,39,10,30,26,6,4,14,29
+TORONTO RAPTORS,265,38,84,8,16,23,33,17,28,18,8,2,14,33

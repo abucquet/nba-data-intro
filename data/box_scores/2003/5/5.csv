@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+BOSTON CELTICS,240,33,75,9,28,18,24,4,26,25,9,5,15,28
+NEW JERSEY NETS,240,34,81,6,18,23,28,10,34,24,6,4,18,23
+LOS ANGELES LAKERS,240,34,86,5,15,9,12,14,43,11,2,6,19,24
+SAN ANTONIO SPURS,240,30,80,6,14,21,35,12,33,19,9,6,11,20

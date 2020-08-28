@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+PHILADELPHIA 76ERS,240,45,85,6,13,22,25,19,27,18,7,3,16,19
+GOLDEN STATE WARRIORS,240,43,87,9,17,15,19,12,23,25,9,1,11,21
+SEATTLE SUPERSONICS,240,44,90,4,12,15,26,18,33,19,7,4,10,11
+HOUSTON ROCKETS,240,41,91,1,13,9,11,14,28,19,6,3,13,22
+INDIANA PACERS,240,29,67,2,13,19,23,4,30,13,12,7,16,24
+MIAMI HEAT,240,34,80,7,25,16,22,10,32,25,8,2,16,20
+NEW YORK KNICKS,240,31,68,5,16,22,24,5,25,18,9,2,15,32
+WASHINGTON WIZARDS,240,23,61,4,13,32,39,11,28,14,9,4,23,25

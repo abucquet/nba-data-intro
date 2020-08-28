@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+CHARLOTTE HORNETS,265,39,89,4,10,28,36,16,36,20,8,4,11,29
+ORLANDO MAGIC,265,33,83,7,23,27,36,7,31,21,3,2,12,28
+SAN ANTONIO SPURS,240,40,75,7,11,15,21,6,33,19,4,7,8,15
+SEATTLE SUPERSONICS,240,31,86,3,10,10,15,14,27,21,4,3,9,21
+DETROIT PISTONS,240,29,62,9,19,17,21,10,22,17,7,6,22,22
+TORONTO RAPTORS,240,37,75,1,8,19,20,12,20,25,14,5,14,20
+SACRAMENTO KINGS,240,26,73,5,16,33,38,17,38,10,6,5,20,24
+UTAH JAZZ,240,31,74,6,19,19,26,5,24,20,11,8,11,31

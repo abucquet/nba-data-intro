@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+DENVER NUGGETS,240,29,77,2,9,9,16,13,28,18,9,4,20,22
+CHICAGO BULLS,240,36,86,2,8,14,21,23,38,18,10,6,18,20
+MIAMI HEAT,240,36,90,10,20,10,13,19,36,22,2,2,15,33
+DALLAS MAVERICKS,240,31,73,5,15,31,38,6,32,18,6,7,5,18
+BOSTON CELTICS,240,31,80,8,26,22,30,9,33,13,9,3,13,19
+LOS ANGELES CLIPPERS,240,35,77,5,20,9,14,4,38,25,7,7,19,25
+SEATTLE SUPERSONICS,240,39,79,8,23,10,16,7,23,30,7,3,11,28
+PORTLAND TRAIL BLAZERS,240,33,74,8,21,27,32,12,27,21,4,4,16,21

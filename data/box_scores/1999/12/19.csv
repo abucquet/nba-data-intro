@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+ATLANTA HAWKS,240,34,77,4,7,16,21,18,31,13,5,6,20,15
+NEW JERSEY NETS,240,42,89,8,20,4,9,14,27,24,7,7,9,17
+LOS ANGELES LAKERS,240,32,75,2,5,28,40,10,34,13,8,9,15,20
+TORONTO RAPTORS,240,35,89,3,11,15,23,16,34,19,9,7,13,30
+LOS ANGELES CLIPPERS,240,32,69,7,12,13,22,5,30,17,7,9,17,19
+VANCOUVER GRIZZLIES,240,30,75,6,13,19,24,14,32,18,9,7,16,19

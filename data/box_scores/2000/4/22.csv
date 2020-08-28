@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+PHILADELPHIA 76ERS,240,33,78,4,6,22,31,14,22,14,8,6,10,27
+CHARLOTTE HORNETS,240,24,65,4,18,30,39,18,33,12,7,8,20,23
+DETROIT PISTONS,240,29,67,6,10,21,32,9,28,18,4,1,17,26
+MIAMI HEAT,240,34,73,7,13,20,24,7,28,21,9,11,12,29
+PHOENIX SUNS,240,30,82,3,14,9,10,10,37,20,10,10,14,20
+SAN ANTONIO SPURS,240,27,73,4,11,12,21,9,41,15,7,9,18,19
+SEATTLE SUPERSONICS,240,38,89,8,15,9,16,17,28,17,5,3,14,25
+UTAH JAZZ,240,37,80,7,11,23,26,15,35,26,9,6,14,24
